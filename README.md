@@ -1,4 +1,4 @@
-# PSA-CodeSprint-2021
+# Mental Health at Work
 
 This repository is solely meant for submission to the Preliminary Round of the PSA CodeSprint 2021, organized by the PSA International Pte Ltd, from Friday, October 8, 2021, to Sunday, October 10, 2021.
 
